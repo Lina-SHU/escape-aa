@@ -237,6 +237,6 @@ body{
   font-size: 0.75rem;
 }
 
-.d-none{
-  display: none;
+.d-block{
+  display: block;
 }
